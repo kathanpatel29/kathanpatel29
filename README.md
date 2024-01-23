@@ -1,10 +1,9 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hacker%20Typer%20👨‍💻&width=800&height=400)]
 ### Hi there 👋
 
 <!--
 **kathanpatel29/kathanpatel29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-
+## I am Kathan Patel, Fullstack Web Developer
 
 - 🔭 I’m currently working as Swim Instructor at Felix Swim Schools Downtown, Toronto, Canada.
 - 🌱 I’m currently learning Web Development from Humber College, Toronto, Canada.
