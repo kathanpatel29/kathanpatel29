@@ -1,3 +1,5 @@
+![github-header-image](https://github.com/kathanpatel29/kathanpatel29/assets/69028584/dc23431f-acc7-4a71-9e1a-939d477164b3)
+
 ### Hi there 👋
 
 <!--
